@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "730061020836",
+    "project_id": "findhairdresser",
+    "storage_bucket": "findhairdresser.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730061020836:android:ba142a19c3947761509031",
+        "android_client_info": {
+          "package_name": "com.example.findhairdresser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730061020836-d78cmd6jaa6nkpdrun8m8eipnv2ul6bj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXW08HtIjgowRXPuEJiED2Sm5xPhBd1no"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730061020836-d78cmd6jaa6nkpdrun8m8eipnv2ul6bj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
