@@ -6,6 +6,7 @@ import retrofit2.http.GET
 
 interface CitiesAPI {
 
-    @GET(R.raw.cities.toString())
+    @GET("snrylmz/il-ilce-json/blob/master/js/il-ilce.json")
     fun getData(): Call<List<cities>>
+
 }
