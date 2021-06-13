@@ -4,9 +4,9 @@ import com.google.gson.annotations.SerializedName
 
 data class cities(
 
-    val name : String,
+    val il_adi : String,
 
-    val plate : Int,
+    val plaka_kodu : Int,
 
-    val counties : String
+    val ilce_adi : ArrayList<String>
     )
